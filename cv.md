@@ -1,12 +1,24 @@
-1. First Name, Last Name (real ones)
-2. Contact Info (add several ways to contact you)
-3. Summary (your goal, wishes, reveal what is important for you, what do you want and why.
-Some kind of self-presentation. In case of lack of experience  Junior Developer sells his/her potential, his/her passion and ability to learn fast. You shouldn't think that everybody is going to teach you when you come to the workplace . Rather being a Junior means always
-learning new things from everywhere etc.).
-4. Skills (e.g. programming languages, frameworks, methodologies, version control, tools etc.)
-5. Code examples (LATEST)
-6. Experience (for a Junior Dev it means all kinds of experience: coding tests, projects from courses,
-freelance projects - wherever they had the opportunity to demonstrate skills they have.
-Also it would be awesome if you add links to source code)
-7. Education (including courses, seminars, lectures, online learning)
-8. English (elaborate on what kind of practice you had, if any, how long it lasted and so on)
+## Artsem Liakhovich
+
+### Contact Info
+**Phone number:** +375 (29) 352-10-62 
+**E-mail:** itaintme@mail.ru
+
+### Summary
+My interest in the frontend development makes me searching for the growth in the direction.
+So, I feel hungry for learning and I have to satisfy this feeling with the courses and self-study.
+I look forward to facing with the practical experience and becoming a frontend developer.
+
+### Skills
+The basic knowledge of JavaScript, HTML, CSS, Git
+
+### Code examples
+[GitHub](https://github.com/orangetomato)
+
+### Education
+* IT-Academy JS courses, 
+* (learn.javascript.ru), 
+* (htmlacademy.ru)
+
+### English
+I studied English for 5 years at the Belarusian State Economic University
