@@ -10,15 +10,16 @@ So, I feel hungry for learning and I have to satisfy this feeling with the cours
 I look forward to facing with the practical experience and becoming a frontend developer.
 
 ### Skills
-The basic knowledge of JavaScript, HTML, CSS, Git
+The basic knowledge of **JavaScript, HTML, CSS, Git.**
 
 ### Code examples
-[GitHub](https://github.com/orangetomato)
+[My GitHub page](https://github.com/orangetomato)
 
 ### Education
-* IT-Academy JS courses, 
-* (learn.javascript.ru), 
-* (htmlacademy.ru)
+* IT-Academy JS courses
+* [learn.javascript.ru] (https://learn.javascript.ru)
+* [htmlacademy.ru] (https://htmlacademy.ru/profile/id1239201)
+* [codewars.com] (https://www.codewars.com/users/Artyom_L)
 
 ### English
-I studied English for 5 years at the Belarusian State Economic University
+I studied English for 5 years at the Belarusian State Economic University.
