@@ -1,7 +1,8 @@
 ## Artsem Liakhovich
 
 ### Contact Info
-**Phone number:** +375 (29) 352-10-62 
+**Phone number:** +375 (29) 352-10-62
+
 **E-mail:** itaintme@mail.ru
 
 ### Summary
@@ -17,9 +18,9 @@ The basic knowledge of **JavaScript, HTML, CSS, Git.**
 
 ### Education
 * IT-Academy JS courses
-* [learn.javascript.ru] (https://learn.javascript.ru)
-* [htmlacademy.ru] (https://htmlacademy.ru/profile/id1239201)
-* [codewars.com] (https://www.codewars.com/users/Artyom_L)
+* [learn.javascript.ru](https://learn.javascript.ru)
+* [htmlacademy.ru](https://htmlacademy.ru/profile/id1239201)
+* [codewars.com](https://www.codewars.com/users/Artyom_L)
 
 ### English
 I studied English for 5 years at the Belarusian State Economic University.
